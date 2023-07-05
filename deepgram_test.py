@@ -13,7 +13,7 @@ import sys
 # Example: audio/wav
 MIMETYPE = 'audio/mp4'
 
-FIRST_API_KEY = '426ede75de63902dcec1758f2825fdecf4144b73'
+FIRST_API_KEY = ''
 
 async def main(lang1,lang2, FILE):
 
